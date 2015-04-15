@@ -1,0 +1,21 @@
+time to work on gamescreen.
+time to work on world generation.
+time to work on monster generation.
+time to work on item generation.
+time to work on monster ai.
+time to work on art.
+
+
+
+
+randomly generated dungeon is now a sort of "challenge mode" for players. they can challenge the "arena" to
+enter a personal dungeon that infinitely increases in difficulty where people can challenge for rare loot and
+high scores.
+
+
+finish version verification packet. - verifies correct map version / that it hasnt been tampered with.
+
+learn how to modify map.
+
+
+finish drawing player to screen. then draw other people. then walk arround together. then chat. then collision.

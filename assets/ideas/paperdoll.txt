@@ -1,0 +1,1 @@
+paperdoll inventory is a frame with buttons for each slot, pressing the button pops up a new menu that lists all eq in their inventory that they can equip.
